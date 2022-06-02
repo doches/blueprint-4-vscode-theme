@@ -1,0 +1,21 @@
+{
+    "name": "blueprint-4",
+    "displayName": "Blueprint 4",
+    "description": "Palantir Blueprint v4 syntax theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blueprint v4",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blueprint v4-color-theme.json"
+            }
+        ]
+    }
+}
